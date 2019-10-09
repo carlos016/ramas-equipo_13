@@ -1,3 +1,1 @@
-12.- ¿Se presenta algún problema? ¿Por qué la salida indica Nada que enviar (commit)? ¿Existe algún fichero del que se quiera mantener una versión? ¿Cuál es la salida de la ejecución del comando git log? ¿Cuál es la solución?
-
-- El problema que se presenta es que no hay ningún fichero del cuál hacer seguimiento y git no hace seguimiento de directorios vacíos. Salida de la ejecución del comando git log: "fatal: tu rama actual 'master' no tiene ningún commit todavía". La solución es crear este fichero para que git pueda empezar con el seguimiento de laqs versiones.
+Trabajo en equipo con git
