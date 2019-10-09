@@ -1,6 +1,6 @@
 Trabajo en equipo con git
 
-Los intérpretes se distinguen de los compiladores, ya que los compiladores traducen un programa desde su descripción en lenguaje de alto nivel a código máquina; mientras que los intérpretes traducen y ejecutan a medida que sea necesario (instrucción por instrucción) y normalmente no guardan el resultado de dicha traducción.
+51.- Los intérpretes se distinguen de los compiladores, ya que los compiladores traducen un programa desde su descripción en lenguaje de alto nivel a código máquina; mientras que los intérpretes traducen y ejecutan a medida que sea necesario (instrucción por instrucción) y normalmente no guardan el resultado de dicha traducción.
 
 Ventajas e inconvenientes:
   + Interpretación:
@@ -10,3 +10,7 @@ Ventajas e inconvenientes:
   + Compilación:
     - Ventajas: Los lenguajes compilados presentan mejor rendimiento y más eficiencia con respecto a los lenguajes interpretados puesto que una decisión hecha en tiempo de compilación es una decisión que no tiene que ser llevada a cabo en tiempo de ejecución. Además, los programas sólo se compilan una vez y ejecutada varias veces, por lo que hay un ahorro considerable en tiempo.
     - Desventajas: La desventaja de los compiladores es que, dado que un compilador traduce el código fuente a un lenguaje máquina específico, los programas deben ser compilados específicamente para una arquitectura y sistema operativo en particular, mientras que los intérpretes implementan una máquina virtual cuyo "lenguaje máquina" es el lenguaje de programación de alto nivel. El intérprete lee las sentencias en ese lenguaje.
+
+
+58.-La principal diferencia reside en que el fichero "helloWorld.sh" es un script para ejecutarse en bash que escribe "hello, world" y el fichero "helloWorld.rb" es un fichero en Ruby que también muestra "Hola mundo en Ruby" por pantalla pero no puede ser ejecutado directamente, para ser ejecutado presisa de un intérprete de Ruby.
+Es una línea esencial para definir a los scripts y que puedan ser ejecutados en la bash.
