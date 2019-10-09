@@ -1,1 +1,12 @@
 Trabajo en equipo con git
+
+Los intérpretes se distinguen de los compiladores, ya que los compiladores traducen un programa desde su descripción en lenguaje de alto nivel a código máquina; mientras que los intérpretes traducen y ejecutan a medida que sea necesario (instrucción por instrucción) y normalmente no guardan el resultado de dicha traducción.
+
+Ventajas e inconvenientes:
+  + Interpretación:
+    - Ventajas: La interpretación permite mayor flexibilidad y mejores diagnósticos puesto que el código fuente se ejecuta directamente y el intérprete puede incluir un excelente depurador a nivel de código. Además, con la interpretación se pueden implementar características que no se podrían realizar con la interpretación, como por ejemplo traducir en el momento nuevo código que se genera mientras se ejecuta un programa.
+    - Desventajas: La desventaja principal de los interpretadores es que ,cuando se interpreta un programa, típicamente corre más lentamente que si hubiera sido compilado porque el interpretador debe analizar cada sentencia en el programa cada vez que es ejecutada y entonces realizar la acción deseada.
+
+  + Compilación:
+    - Ventajas: Los lenguajes compilados presentan mejor rendimiento y más eficiencia con respecto a los lenguajes interpretados puesto que una decisión hecha en tiempo de compilación es una decisión que no tiene que ser llevada a cabo en tiempo de ejecución. Además, los programas sólo se compilan una vez y ejecutada varias veces, por lo que hay un ahorro considerable en tiempo.
+    - Desventajas: La desventaja de los compiladores es que, dado que un compilador traduce el código fuente a un lenguaje máquina específico, los programas deben ser compilados específicamente para una arquitectura y sistema operativo en particular, mientras que los intérpretes implementan una máquina virtual cuyo "lenguaje máquina" es el lenguaje de programación de alto nivel. El intérprete lee las sentencias en ese lenguaje.
